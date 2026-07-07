@@ -25,7 +25,7 @@
         "url": "https://github.com/42Crunch-AI/claude-plugins.git",
         "path": "plugins/api-security-testing",
         "ref": "v1.5.5",
-        "sha": "2ed4978117324165d07f43681f9a908fddefea47"
+        "sha": "8ee6dc2f96fca5c551e1932f50feb21550ffd3c6"
       },
       "homepage": "https://42crunch.com"
     },
@@ -167,7 +167,7 @@
         "url": "https://github.com/amplitude/mcp-marketplace.git",
         "path": "plugins/amplitude",
         "ref": "main",
-        "sha": "fb22979da93d27dcb17b832dbd473e6b0caf2ca8"
+        "sha": "05ce0a91cbf3188f1512e324bd9663cc0e23f34a"
       },
       "description": "Use Amplitude as an expert analyst — instrument Amplitude, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts.",
       "category": "monitoring",
@@ -229,7 +229,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "8827e93429f4d3741bf30377027c9cbfe8b58f3c"
+        "sha": "a5d53d28a4da0be33ed501e1c732b637ac06670b"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -453,7 +453,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "035970c832a6be98a54e7a8d25d3e9111135d205"
+        "sha": "398ba8153b64c1c233bb9a58255e6832fa5757cc"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -573,7 +573,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "74dcec2b733f150c11b6d7c59b7a37e63da79a82"
+        "sha": "218e403fd99af2d3e4932602e9b3731affbc9732"
       },
       "homepage": "https://carta.com"
     },
@@ -605,7 +605,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "e32d1707c89887768fd8462c3942865ae3b7e343"
+        "sha": "27e98f1acdcbfa66337b6646098e3a547b60423b"
       },
       "homepage": "https://carta.com"
     },
@@ -632,7 +632,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "913308263bdc8042af74924b68dc39a374ad071d"
+        "sha": "b2c63e644eae3fad6747c1f3d678952fc4d756c0"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -1014,7 +1014,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "8827e93429f4d3741bf30377027c9cbfe8b58f3c"
+        "sha": "a5d53d28a4da0be33ed501e1c732b637ac06670b"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -1038,7 +1038,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/astronomer/agents.git",
-        "sha": "8827e93429f4d3741bf30377027c9cbfe8b58f3c"
+        "sha": "a5d53d28a4da0be33ed501e1c732b637ac06670b"
       },
       "homepage": "https://github.com/astronomer/agents"
     },
@@ -1362,7 +1362,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/firestore-native.git",
-        "sha": "6023cc546e03ec1e489b1960d232063294403c38"
+        "sha": "ddbdafa81de1061d4beb39b9cc65c863ee153471"
       },
       "homepage": "https://github.com/gemini-cli-extensions/firestore-native"
     },
@@ -1557,7 +1557,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/hunter-io/claude-plugin.git",
-        "sha": "c13945a47acd6ec9ea7ed9860af110b98b357189"
+        "sha": "22eb444a83bfb5a426abbd68ad44f5a86086fc30"
       },
       "homepage": "https://hunter.io"
     },
@@ -1571,7 +1571,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "3a717fa71997477c6f81dce7c9f2e63a4ad675ed"
+        "sha": "037266e72bd808491a82008ca2520299fecef381"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2013,7 +2013,7 @@
         "url": "https://github.com/awslabs/startups.git",
         "path": "migrate/plugins/migration-to-aws",
         "ref": "main",
-        "sha": "cc6609038a5cb89c1b85f1f97283439eb0ee256b"
+        "sha": "653b0c87c6ebdf16a2af87ac1ca6864ee1ddb6df"
       },
       "homepage": "https://github.com/awslabs/startups"
     },
@@ -2091,7 +2091,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/netlify/context-and-tools.git",
-        "sha": "7b32f0c8aacffc23cdae57b46115e96492a61a4f"
+        "sha": "fce2a2fd13fa32a9d6a9b603634c2c26cd95f2e5"
       },
       "homepage": "https://github.com/netlify/context-and-tools"
     },
@@ -2127,7 +2127,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/nvsecurity/nightvision-skills.git",
-        "sha": "20e109563c5591fc52cf1302646c177541fc190c"
+        "sha": "97c72cbcddf51ab2d8387b61c68d5d999fec645e"
       },
       "homepage": "https://github.com/nvsecurity/nightvision-skills"
     },
@@ -2226,7 +2226,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gemini-cli-extensions/oracledb.git",
-        "sha": "23c7de3e75419f4e5de8d0f939a8176c4eebb8c7"
+        "sha": "a79fdfd3864f73703b20e902e58b107e7dd94e26"
       },
       "homepage": "https://github.com/gemini-cli-extensions/oracledb"
     },
@@ -2774,7 +2774,7 @@
         "url": "https://github.com/SAP/open-ux-tools.git",
         "path": "packages/fiori-mcp-server",
         "ref": "main",
-        "sha": "a0af1f0e70969f39fff4260531d4ddd0cf63bd69"
+        "sha": "17d41395c6fa6a3ab9a25b5c12894dafecb597eb"
       },
       "homepage": "https://github.com/SAP/open-ux-tools/tree/main/packages/fiori-mcp-server"
     },
@@ -2960,7 +2960,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/slackapi/slack-mcp-plugin.git",
-        "sha": "6af155a7082b881ba9f80bc86b449b2b7f688393"
+        "sha": "2fc70f1abc5d5bf45db9adeabc556a11a784c19e"
       },
       "homepage": "https://github.com/slackapi/slack-mcp-plugin/tree/main"
     },
@@ -3050,7 +3050,7 @@
         "url": "https://github.com/stripe/ai.git",
         "path": "providers/claude/plugin",
         "ref": "main",
-        "sha": "b8d7e28d0cc5690fb0c0be54c84cbfdd7df6e4cd"
+        "sha": "423788e067d899f73f96a8466a7431074b210db1"
       },
       "homepage": "https://github.com/stripe/ai/tree/main/providers/claude/plugin"
     },
@@ -3383,13 +3383,13 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "8efcbffad6d72ef66b7c903c567017e177df61c4"
+        "sha": "fe8b31fbe208664b978fbf3b4c8affa429ee0c06"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
     {
-      "name": "wordpress.com",
-      "description": "Uses Claude Code to create and edit WordPress sites with WordPress Studio before deploying changes to your WordPress.com site.",
+      "name": "build-with-wordpress",
+      "description": "Craft production-grade WordPress sites and applications. Everything from themes and plugins to commerce and deployment.",
       "source": {
         "source": "url",
         "url": "https://github.com/Automattic/claude-code-wordpress.com.git",
